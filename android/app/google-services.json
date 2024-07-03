@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "239501540792",
+    "project_id": "smit-app-91c2e",
+    "storage_bucket": "smit-app-91c2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239501540792:android:52c35062fff0d609b0a34d",
+        "android_client_info": {
+          "package_name": "com.example.smit_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0uw-YxV4bL_0gosX0MuHlFBfsNvBwr6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
